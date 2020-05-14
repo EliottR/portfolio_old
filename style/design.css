@@ -813,6 +813,7 @@ footer{
 }
 	.img-8{
 		display:none;
+		visibility: hidden;
 	}
 
 }
