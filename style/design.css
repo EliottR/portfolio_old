@@ -796,6 +796,9 @@ footer{
 	.img-6{
 	min-height: 0;
 }
+	.img-8{
+		display:none;
+	}
 
 }
 /*responsive 830*/
