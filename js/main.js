@@ -46,17 +46,21 @@ $(".nav-experiences").click(function() {
  });
 });
 
+
+ 
+
+
 /*quand on scrolle down pour faire disparaître le header*/
 var prev = 0;
 var $window = $(window);
 var nav = $('.navbar');
 
-if(window.innerWidth<1000){
-$window.on('scroll', function(){
+
+$window.on('scroll', function myFuction(){
   var scrollTop = $window.scrollTop();
   nav.toggleClass('hidden', scrollTop > prev);
   prev = scrollTop;
-})}
+})
 
 /*scroll to experiences*/
 $(document).ready(function() {
