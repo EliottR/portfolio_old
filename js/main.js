@@ -51,7 +51,7 @@ var prev = 0;
 var $window = $(window);
 var nav = $('.navbar');
 
-if(window.innerWidth>1000){
+if(window.innerWidth<1000){
 $window.on('scroll', function(){
   var scrollTop = $window.scrollTop();
   nav.toggleClass('hidden', scrollTop > prev);

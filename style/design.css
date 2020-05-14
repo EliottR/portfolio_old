@@ -744,11 +744,11 @@ footer{
 		}
 
 	.navbar{
-		position: static;
+		position: fixed;
 	}
 	
 	.navbar.hidden{
-	transform: translateY(0);
+	transform: translateY(-150%);
 	}
 	
 	.onglet{
