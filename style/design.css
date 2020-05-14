@@ -815,6 +815,11 @@ footer{
 		display:none;
 		visibility: hidden;
 	}
+	
+	.img-5{
+		display: none;
+		visibility: hidden;
+	}
 
 }
 /*responsive 830*/
