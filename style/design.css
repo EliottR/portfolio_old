@@ -42,11 +42,21 @@ section{
 	transition: transform .5s ease-in-out;
 	-webkit-transform: rotate(360deg);
 	transform: rotate(360deg);
+	animation: loader 0.5s ease infinite alternate;
 }
 
 .loading-page.hidden{
 	animation: fadeOut 1.5s;
 	animation-fill-mode: forwards;
+}
+
+@keyframes loader{
+	from{
+		transform : scale(1);
+	}
+	to{
+		transform: scale(1.1);
+	}
 }
 
 @keyframes fadeOut{
