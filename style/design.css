@@ -1,5 +1,5 @@
 body {
-	background: url("../../Images/background4.png") no-repeat center center fixed;
+	background: url("../Images/background4.png") no-repeat center center fixed;
 	  -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -481,32 +481,32 @@ h3{
 }
 
 .item-11:hover{
-	content: url("../../Images/audition-phone.png");
+	content: url("../Images/audition-phone.png");
 	width: 180px;
 }
 
 .item-22:hover{
-	content: url("../../Images/Dreamweaver-phone.png");
+	content: url("../Images/Dreamweaver-phone.png");
 	width: 180px;
 }
 
 .item-33:hover{
-	content: url("../../Images/Illustrator-phone.png");
+	content: url("../Images/Illustrator-phone.png");
 	width: 180px;
 }
 
 .item-44:hover{
-	content: url("../../Images/Indesign-phone.png");
+	content: url("../Images/Indesign-phone.png");
 	width: 180px;
 }
 
 .item-55:hover{
-	content: url("../../Images/Premiere-phone.png");
+	content: url("../Images/Premiere-phone.png");
 	width: 180px;
 }
 
 .item-66:hover{
-	content: url("../../Images/Photoshop-phone.png");
+	content: url("../Images/Photoshop-phone.png");
 	width: 180px;
 }
 
@@ -582,43 +582,43 @@ h3{
 .img-1{
 	grid-area: img-1;
 	min-height: 25.5rem;
-	background-image: url("../../Images/Gallery/img-1.PNG");
+	background-image: url("../Images/Gallery/img-1.PNG");
 }
 
 .img-2{
 	grid-area: img-2;
-	background-image: url("../../Images/Gallery/img-2.PNG");
+	background-image: url("../Images/Gallery/img-2.PNG");
 }
 
 .img-3{
 	grid-area: img-3;
-	background-image: url("../../Images/Gallery/img-3.jpg");
+	background-image: url("../Images/Gallery/img-3.jpg");
 }
 
 .img-4{
 	grid-area: img-4;
-	background-image: url("../../Images/Gallery/img-4.PNG");
+	background-image: url("../Images/Gallery/img-4.PNG");
 }
 
 .img-5{
 	grid-area: img-5;
-	background-image: url("../../Images/Gallery/img-5.PNG");
+	background-image: url("../Images/Gallery/img-5.PNG");
 }
 
 .img-6{
 	grid-area: img-6;
 	min-height: 25.5rem;
-	background-image: url("../../Images/Gallery/img-6.png");
+	background-image: url("../Images/Gallery/img-6.png");
 }
 
 .img-7{
 	grid-area: img-7;
-	background-image: url("../../Images/Gallery/img-7-video.jpg");
+	background-image: url("../Images/Gallery/img-7-video.jpg");
 }
 
 .img-8{
 	grid-area: img-8;
-	background-image: url("../../Images/Gallery/img-8.PNG");
+	background-image: url("../Images/Gallery/img-8.PNG");
 }
 
 
