@@ -131,8 +131,7 @@ span.border-bottom{
 }
 
 .onglet:hover {
-	color:orange;
-	border-bottom: 2px solid orange;
+	border-bottom: 2px solid #ffec00;
 
 }
 
@@ -175,9 +174,10 @@ b1 {
 }
 
 b1:hover {
-	color: orange;
+	color: #ffec00;
   -webkit-text-stroke: 2px var(black);
 	cursor: text;
+	text-shadow: #000000 1px 1px, #000000 -1px 1px, #000000 -1px -1px, #000000 1px -1px;
 
 }
 
